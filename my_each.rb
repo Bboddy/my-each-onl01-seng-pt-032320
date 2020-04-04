@@ -4,5 +4,5 @@ def my_each(collection)
     yeild(collection[i])
     i = 1+i
   end
-  return collection
+  collection
 end
